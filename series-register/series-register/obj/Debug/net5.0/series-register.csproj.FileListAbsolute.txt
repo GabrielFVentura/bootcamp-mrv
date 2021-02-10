@@ -1,0 +1,16 @@
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\bin\Debug\net5.0\series-register.exe
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\bin\Debug\net5.0\series-register.deps.json
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\bin\Debug\net5.0\series-register.runtimeconfig.json
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\bin\Debug\net5.0\series-register.runtimeconfig.dev.json
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\bin\Debug\net5.0\series-register.dll
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\bin\Debug\net5.0\ref\series-register.dll
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\bin\Debug\net5.0\series-register.pdb
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\obj\Debug\net5.0\series-register.csprojAssemblyReference.cache
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\obj\Debug\net5.0\series-register.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\obj\Debug\net5.0\series-register.AssemblyInfoInputs.cache
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\obj\Debug\net5.0\series-register.AssemblyInfo.cs
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\obj\Debug\net5.0\series-register.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\obj\Debug\net5.0\series-register.dll
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\obj\Debug\net5.0\ref\series-register.dll
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\obj\Debug\net5.0\series-register.pdb
+C:\Users\Daniel\Documents\bootcamp-mrv\series-register\series-register\obj\Debug\net5.0\series-register.genruntimeconfig.cache
