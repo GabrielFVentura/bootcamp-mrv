@@ -8,24 +8,26 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Daniel\\.nuget\\packages\\": {}
+    "C:\\Users\\Squadra\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniel\\Documents\\bootcamp-mrv\\series-register\\series-register\\series-register.csproj",
+      "projectUniqueName": "C:\\Users\\Squadra\\Documents\\bootcamp-mrv\\series-register\\series-register\\series-register.csproj",
       "projectName": "series-register",
-      "projectPath": "C:\\Users\\Daniel\\Documents\\bootcamp-mrv\\series-register\\series-register\\series-register.csproj",
-      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniel\\Documents\\bootcamp-mrv\\series-register\\series-register\\obj\\",
+      "projectPath": "C:\\Users\\Squadra\\Documents\\bootcamp-mrv\\series-register\\series-register\\series-register.csproj",
+      "packagesPath": "C:\\Users\\Squadra\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Squadra\\Documents\\bootcamp-mrv\\series-register\\series-register\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Squadra\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
       }
     }
   }
